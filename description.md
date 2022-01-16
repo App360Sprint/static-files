@@ -1,5 +1,12 @@
+## App name 
 WallQ - Wallpapers & HD Backgrounds
 WallQ - 4K Wallpapers
+### Category : Personalisation
+
+### Short description
+
+
+### Full description
 
 WallQ offers a unique collection of wallpapers themed around a variety of themes: photos, 4, black, amoled, anime wallpapers, dark wallpapers, cats, space, manga, abstract, funny, colorful.. etc.
 Over 10000+ unique backgrounds and stock wallpapers.
