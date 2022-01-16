@@ -1,5 +1,9 @@
-{{WallCandy}} - Unique Amoled, HD Wallpapers, 4K Wallpaper with Auto Changer is a free app that contains a number of unique handpicked collections.
- There are more than 10000+ unique backgrounds and stock wallpapers for your phone.
+WallQ - Wallpapers & HD Backgrounds
+WallQ - 4K Wallpapers
+
+WallQ offers a unique collection of wallpapers themed around a variety of themes: photos, 4, black, amoled, anime wallpapers, dark wallpapers, cats, space, manga, abstract, funny, colorful.. etc.
+Over 10000+ unique backgrounds and stock wallpapers.
+We offer backgrounds for all tastes and moods!
 
 If you apply Dark, Black Wallpaper on Amoled Display, Your display will produce less light.
 This will help save battery power, squeezing more battery life out of your device.
@@ -12,9 +16,10 @@ BEAUTIFUL ⭐️
 A great user experience combined with a material design user interface created specifically for you.
 This combination will allow you to experience unique emotions.
 
-Feature:
+WallQ’s Main Features
 - Custom Gradient Wallpaper Maker
 - Separated Top trending walls at brand section
+- Popular: find out what are the best wallpapers according to other users.
 - HD & 4K Quality
 - Very easy to apply wallpaper on Your home screen and/or lock screen
 - 17,000+ beautiful wallpapers
