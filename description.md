@@ -15,7 +15,6 @@ This combination will allow you to experience unique emotions.
 Feature:
 - Custom Gradient Wallpaper Maker
 - Separated Top trending walls at brand section
-- 
 - HD & 4K Quality
 - Very easy to apply wallpaper on Your home screen and/or lock screen
 - 17,000+ beautiful wallpapers
